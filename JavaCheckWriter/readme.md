@@ -10,14 +10,18 @@
  
  Issue the command to compile the the java code , it uses some older style Standard input routines.
  
- '''  javac  -Xlint:deprecation  dollar.java''' 
+```bash
+javac  -Xlint:deprecation  dollar.java
+```
  
  # Run
  Ru nusing the command :
- ''' java dollar '''
+ ```bash 
+ java dollar
+ ```
  
 Program out will be like:
-'''
+```shell
 java dollar
 Enter dollar value?5
  five  dollars
@@ -33,4 +37,4 @@ Enter dollar value?9332
 root@XPS15# java dollar
 Enter dollar value?123456
  Number is too large try a number less than 100000
- '''
+ ```
