@@ -1,6 +1,6 @@
 # JavaCheckWriter 
 
- a simple school example of how to convert 
+A simple java school  example of how to convert numeric input like 1234 into written text like one thousand two hundred  thirty  four  dollars
  
  # Requirements
  
